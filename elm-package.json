@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "summary": "Unofficial, basic types for the Filepicker.io API",
+    "repository": "https://github.com/circuithub/elm-filepickerio-api-types.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "FilepickerIO.Api.Type"
+    ],
+    "dependencies": {
+        "elm-lang/core": "1.0.0 <= v < 2.0.0"
+    }
+}
